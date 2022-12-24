@@ -23,3 +23,8 @@
 5. Add name and other details as you like
 6. Set root directory as server, build command as yarn and start command as npm run server
 7. Select Free instance type and click on Create
+8. Add environment variable in the deploy pipeline
+
+## Deploying client code
+
+1. Use vercel to deploy client code
