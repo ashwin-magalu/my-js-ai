@@ -13,4 +13,3 @@
 3. Visit OpenAI website (https://openai.com/api) and create an account
 4. Click on Your profile pic in the right top corner and click on View API keys
 5. Click on Create new secret key button and copy and paste your secret key in .env file that you created inside server folder with the key name as OPENAI_API_KEY
-6.
